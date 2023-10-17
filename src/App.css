@@ -1,0 +1,111 @@
+#root {
+  width: 100vw;
+  justify-content: center;
+  text-align: center;
+  background-color: #f8f4e6;
+  color: black;
+}
+p {
+  margin: 0;
+}
+.panier {
+  display: flex;
+  flex-direction: row;
+  height: 3rem;
+  width: 3rem;
+  background-image: url("../../images/panier.png");
+  background-size: cover;
+}
+.panier h4 {
+  padding-left: 2rem;
+  color: white;
+}
+.bodyCard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.bodyCard h2 {
+  width: 100%;
+}
+
+div button:hover {
+  color: black;
+  background-color: azure;
+  border-color: azure;
+  box-shadow: 2px 4px 6px 5px rgb(70, 69, 69);
+}
+
+.Navbar {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  background-image: url("../public/images/plastic_duck.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.Navbar img {
+  padding-left: 2rem;
+  animation-duration: 5s;
+  animation-name: slidein;
+}
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 150%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 24%;
+  }
+}
+.Navbar ul {
+  display: flex;
+  justify-content: space-around;
+}
+ul li {
+  list-style: none;
+  padding-right: 2rem;
+  font-size: 1.5rem;
+}
+.Filters {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background:linear-gradient(#2e5266,#85b9d4) ;
+  margin-bottom: 2rem;
+  color: aliceblue;
+  border-radius: 5px;
+  
+}
+
+.Footer {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  align-items: center;
+  background-color: #2e5266;
+  color: aliceblue;
+}
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding-left: 0.5rem;
+  margin-right: .5rem;
+  
+}
+.buttons h3 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.add {
+  background-color: rgb(90, 88, 88);
+  border-color: #f8f4e6;
+}
+

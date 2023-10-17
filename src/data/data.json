@@ -1,0 +1,172 @@
+[
+  {
+    "id": "1",
+    "title": "Classic Duck",
+    "description": "Canard le plus connu. Un classique dans votre salle de bain!",
+    "price": 3,
+    "image": "images/classic.jpg",
+    "category": "prix bas"
+  },
+
+  {
+    "id": "2",
+    "title": "Working Duck",
+    "description": "Excellent remplacement de votre working boyfriend!",
+    "price": 3,
+    "image": "images/working.jpg",
+    "category": "travailleur"
+  },
+
+  {
+    "id": "3",
+    "title": "Fire Duck",
+    "description": "Pour ceux qui aiment les uniformes",
+    "price": 3,
+    "image": "images/fire.jpg",
+    "category": "travailleur"
+  },
+
+  {
+    "id": "4",
+    "title": "Student Duck",
+    "description": "Si vous les aimez jeunes ...",
+    "price": 4,
+    "image": "images/student.jpg",
+    "category": "sentimental"
+  },
+
+  {
+    "id": "5",
+    "title": "Duck Vador",
+    "description": "Arriverez-vous à lui faire quittez le côté obscur?",
+    "price": 2,
+    "image": "images/duckvador.jpg",
+    "category": "bad boy"
+  },
+
+  {
+    "id": "6",
+    "title": "Bat Duck",
+    "description": "Justicier au passé sombre",
+    "price": 3,
+    "image": "images/batduck.jpg",
+    "category": "bad boy"
+  },
+
+  {
+    "id": "7",
+    "title": "Duck band",
+    "description": "Si vous aimez le hard duck!",
+    "price": 10,
+    "image": "images/duckband.jpg",
+    "category": "bad boy"
+  },
+
+  {
+    "id": "8",
+    "title": "swimmer",
+    "description": "Avec lui attendez vous a faire la vaisselle!",
+    "price": 7,
+    "image": "images/plonger.jpg",
+    "category": "travailleur"
+  },
+
+  {
+    "id": "9",
+    "title": "Angel Duck",
+    "description": "Pour aller droit au paradis!",
+    "price": 9,
+    "image": "images/angel.jpg",
+    "category": "fantasy"
+  },
+
+  {
+    "id": "10",
+    "title": "UniDuck",
+    "description": "Espèce rare et protégée!",
+    "price": 9,
+    "image": "images/licorne.jpg",
+    "category": "fantasy"
+  },
+
+  {
+    "id": "11",
+    "title": "Giant Duck",
+    "description": "Modèle XXX-L pour ceux qui n'en ont jamais assez!",
+    "price": 6,
+    "image": "images/géant.jpg",
+    "category": ""
+  },
+
+  {
+    "id": "12",
+    "title": "Duck Antho",
+    "description": "Canard le plus polyvalent du marché. L'essayer c'est l'adopter!",
+    "price": 7,
+    "image": "images/duckantho.png",
+    "category": "Incroyable"
+  },
+
+  {
+    "id": "18",
+    "title": "Duck Cat",
+    "description": "Tellement mignon",
+    "price": 7,
+    "image": "images/chat.jpg",
+    "category": "Halloween"
+  },
+
+  {
+    "id": "13",
+    "title": "Momie Duck",
+    "description": "Aussi utile en PQ!",
+    "price": 7,
+    "image": "images/mommie.jpg",
+    "category": "Halloween"
+  },
+
+  {
+    "id": "14",
+    "title": "Harley Duck",
+    "description": "Canard bi-polaire",
+    "price": 9,
+    "image": "images/harley.jpg",
+    "category": "Halloween"
+  },
+
+  {
+    "id": "15",
+    "title": "Duck Ninja",
+    "description": "On me voit, on me voit plus!",
+    "price": 12,
+    "image": "images/ninja.jpg",
+    "category": "Halloween"
+  },
+
+  {
+    "id": "16",
+    "title": "Spider Duck",
+    "description": "Attention il tombe du plafond à tout moment!",
+    "price": 6,
+    "image": "images/spider.jpg",
+    "category": "Halloween"
+  },
+
+  {
+    "id": "19",
+    "title": "Doc Duck",
+    "description": "En cas de bobo",
+    "price": 9,
+    "image": "images/doc.jpg",
+    "category": "Halloween"
+  },
+
+  {
+    "id": "17",
+    "title": "Dracu Duck",
+    "description": "plutôt sanguin",
+    "price": 7,
+    "image": "images/dracula.jpg",
+    "category": "Halloween"
+  }
+]
